@@ -32,7 +32,7 @@ public class Main {
             "┌───────────────────────────────────────┐\n" +
             "│                                       │\n" +
             "│       The Password Thunderdome        │\n" +
-            "│               v3.0.0                  │\n" +
+            "│               v4.1.1                  │\n" +
             "│                                       │\n" +
             "│     Generate Secure Passwords &       │\n" +
             "│       Check Password Strength         │\n" +
