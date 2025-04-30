@@ -1,0 +1,110 @@
+{
+  "version": "v1",
+  "commands": [
+    {
+      "id": "90254917-4d7d-46d0-b3ab-761170beb0d2",
+      "version": "v1",
+      "name": "code-bard",
+      "description": "Let's lighten the mood, shall we?",
+      "updatedAt": "1733518738430",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Transform the code comments in the selected code into rhymes, haikus, or short poems to make documentation more engaging and fun."
+        }
+      ],
+      "promptTemplateText": "Transform the code comments in the selected code into rhymes, haikus, or short poems to make documentation more engaging and fun.",
+      "type": "shared"
+    },
+    {
+      "id": "1e95e7f7-5944-4674-9f70-a75632db3f8f",
+      "type": "shared",
+      "version": "v1",
+      "name": "create-readme",
+      "description": "Create readme for an open project",
+      "updatedAt": "1738353707379",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Summarize this project and suggest the copy for a readme.md file "
+        }
+      ],
+      "promptTemplateText": "Summarize this project and suggest the copy for a readme.md file "
+    },
+    {
+      "id": "1ce91dc7-9601-4899-bf9b-a678ff508aae",
+      "version": "v1",
+      "name": "dependency-whisperer",
+      "description": "Monitors and manages your project’s dependencies",
+      "updatedAt": "1733505877673",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Review and analyze all the dependencies in my pom.xml file, and alert me of any outdated or vulnerable dependencies. Suggests alternatives or help with version upgrades and dependency conflict resolution if needed."
+        }
+      ],
+      "promptTemplateText": "Review and analyze all the dependencies in my pom.xml file, and alert me of any outdated or vulnerable dependencies. Suggests alternatives or help with version upgrades and dependency conflict resolution if needed.",
+      "type": "shared"
+    },
+    {
+      "id": "8d4efda1-51ce-42b6-9d14-13533eacfa2b",
+      "version": "v1",
+      "name": "easter-egg",
+      "description": "Put a surprise for your colleague!",
+      "updatedAt": "1733519830345",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Suggest a non-intrussive, secure, yet clever easter egg in my selected code, such as a fun message or animation. Make sure this doesnt interfere with any performance or functionality."
+        }
+      ],
+      "promptTemplateText": "Suggest a non-intrussive, secure, yet clever easter egg in my selected code, such as a fun message or animation. Make sure this doesnt interfere with any performance or functionality.",
+      "type": "shared"
+    },
+    {
+      "id": "ef026f6b-0bf1-40b2-851e-a687c2d60aa6",
+      "type": "shared",
+      "version": "v1",
+      "name": "find-security-recs",
+      "description": "analyze and find security improvements",
+      "updatedAt": "1739469106736",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Analyze and review selected code to see if there are any security vunlerabilities present. For each vulnerability, show an example on how an attacker might exploit it, and then show how to refactor the code to mitigate the threat."
+        }
+      ],
+      "promptTemplateText": "Analyze and review selected code to see if there are any security vunlerabilities present. For each vulnerability, show an example on how an attacker might exploit it, and then show how to refactor the code to mitigate the threat."
+    },
+    {
+      "id": "4bf226c2-06cd-496f-9796-7bc1c83135b7",
+      "version": "v1",
+      "name": "fix-and-document",
+      "description": "provides documentation when fixing code",
+      "updatedAt": "1733336265452",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Fix the code and generate documentation for the fix inline"
+        }
+      ],
+      "promptTemplateText": "Fix the code and generate documentation for the fix inline",
+      "type": "shared"
+    },
+    {
+      "id": "03c75e04-0cbe-4cbd-a4d2-d51c5df496de",
+      "type": "shared",
+      "version": "v1",
+      "name": "spanish-docs",
+      "description": "generate documentation in spanish",
+      "updatedAt": "1738180641668",
+      "promptTemplate": [
+        {
+          "type": "text",
+          "text": "Generate documentation for the selected code in Spanish."
+        }
+      ],
+      "promptTemplateText": "Generate documentation for the selected code in Spanish."
+    }
+  ]
+}
