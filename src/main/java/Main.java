@@ -32,10 +32,10 @@ public class Main {
             "┌───────────────────────────────────────┐\n" +
             "│                                       │\n" +
             "│       The Password Thunderdome        │\n" +
-            "│               v4.1.1                  │\n" +
+            "│               v4.1.1tabnine           │\n" +
             "│                                       │\n" +
             "│     Generate Secure Passwords &       │\n" +
-            "│       Check Password Strength         │\n" +
+            "│       Check Password Strengths        │\n" +
             "│                                       │\n" +
             "└───────────────────────────────────────┘\n" +
             "\033[0m"; // Reset color
